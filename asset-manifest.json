@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tllcc-worship-scheduler/static/css/main.24a770ca.css",
+    "main.js": "/tllcc-worship-scheduler/static/js/main.3599f9cf.js",
+    "static/js/787.952cc1fd.chunk.js": "/tllcc-worship-scheduler/static/js/787.952cc1fd.chunk.js",
+    "index.html": "/tllcc-worship-scheduler/index.html",
+    "main.24a770ca.css.map": "/tllcc-worship-scheduler/static/css/main.24a770ca.css.map",
+    "main.3599f9cf.js.map": "/tllcc-worship-scheduler/static/js/main.3599f9cf.js.map",
+    "787.952cc1fd.chunk.js.map": "/tllcc-worship-scheduler/static/js/787.952cc1fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a770ca.css",
+    "static/js/main.3599f9cf.js"
+  ]
+}
