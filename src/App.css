@@ -43,3 +43,18 @@
     border-radius: 1rem;
     padding: 10px;
 }
+
+.form-container {
+    width: 250px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 1rem;
+    padding: 10px;
+}
+
+.form-container input{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+  }
