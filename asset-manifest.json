@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tllcc-worship-scheduler/static/css/main.6853c312.css",
-    "main.js": "/tllcc-worship-scheduler/static/js/main.ba2944d8.js",
+    "main.css": "/tllcc-worship-scheduler/static/css/main.0516da22.css",
+    "main.js": "/tllcc-worship-scheduler/static/js/main.629fdfa3.js",
     "static/js/787.952cc1fd.chunk.js": "/tllcc-worship-scheduler/static/js/787.952cc1fd.chunk.js",
     "index.html": "/tllcc-worship-scheduler/index.html",
-    "main.6853c312.css.map": "/tllcc-worship-scheduler/static/css/main.6853c312.css.map",
-    "main.ba2944d8.js.map": "/tllcc-worship-scheduler/static/js/main.ba2944d8.js.map",
+    "main.0516da22.css.map": "/tllcc-worship-scheduler/static/css/main.0516da22.css.map",
+    "main.629fdfa3.js.map": "/tllcc-worship-scheduler/static/js/main.629fdfa3.js.map",
     "787.952cc1fd.chunk.js.map": "/tllcc-worship-scheduler/static/js/787.952cc1fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6853c312.css",
-    "static/js/main.ba2944d8.js"
+    "static/css/main.0516da22.css",
+    "static/js/main.629fdfa3.js"
   ]
 }
